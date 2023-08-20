@@ -5,7 +5,7 @@
 
 - 🔭 Buscando por novas oportunidades que me façam evoluir como profissional. 
 
-### Habilidades
+## ⌨️ Habilidades
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -19,11 +19,16 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![Static Badge](https://img.shields.io/badge/Python-05122A?logo=Python)
 ![Static Badge](https://img.shields.io/badge/Bulma-05122A?logo=Bulma)
+![Static Badge](https://img.shields.io/badge/Angular-05122A?logo=Angular)
 <br>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=looptock&layout=compact&bg_color=05122A&border_color=30A3DC&title_color=fff&text_color=FFF)
+## 🕹️ Bootcamps
+<img height="170" src="https://raw.githubusercontent.com/gist/looptock/c78cc5408013aedaab9ac3f910d54ca8/raw/35196d45ace01cf6f019e444c0f3f49ae06313d2/santander.svg"/>
+<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/Santander-Java%2BAngular-05122A?labelColor=ff0000">
 
-## Contatos
+## 📩 Contatos
 
 <p align="left" style="">
 <a href="mailto:matheusmarthek@gmail.com" target="_blank">
