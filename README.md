@@ -23,7 +23,7 @@
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=looptock&layout=compact&bg_color=05122A&border_color=30A3DC&title_color=fff&text_color=FFF)
 
-### Contatos
+## Contatos
 
 <p align="left" style="">
 <a href="mailto:matheusmarthek@gmail.com" target="_blank">
